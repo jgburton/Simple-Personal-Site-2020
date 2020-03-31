@@ -76,7 +76,7 @@ const Header = ({ siteTitle }) => (
   <SiteHeader>
     <Content>
       <p>
-        <HomeLink to="/">{siteTitle}</HomeLink>
+        {/* <HomeLink to="/">{siteTitle}</HomeLink> */}
         {/* <NavLink to="/blog">Blog</NavLink> */}
         <GitHubLink target="_blank" href="https://github.com/jgburton">
           GitHub
