@@ -83,7 +83,7 @@ const Header = ({ siteTitle }) => (
         </GitHubLink>
         <GitHubLink
           target="_blank"
-          href="https://soundcloud.com/jgranthamburton"
+          href="https://www.instagram.com/jgranthamburton.guitar/"
         >
           JazzGuitar
         </GitHubLink>
