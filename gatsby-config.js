@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Jamie Grantham-Burton`,
-    subtitle: `User Experience Software Developer & Jazz Musician`,
-    description: `User Experience Software Developer & Jazz Musician based in London, UK.`,
+    subtitle: `Software Engineer & Artist`,
+    description: `Software Engineer & Artist based in Melbourne, Victoria.`,
     author: `@jgranthamburton`,
   },
   plugins: [
